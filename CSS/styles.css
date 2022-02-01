@@ -55,7 +55,7 @@ body {
 
 
 @media (min-width: 360px) {
-    #contenido {
+    .qrdiv {
         background-color: white;
         display: inline-block;
         width: 310px;
@@ -65,7 +65,7 @@ body {
 }
 
 @media (min-width: 1281px) {
-    #contenido {
+    .qrdiv{
         background-color: white;
         display: inline-block;
         width: 310px;
